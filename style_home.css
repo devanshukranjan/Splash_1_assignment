@@ -8,7 +8,7 @@ body{
     height: 100vh;
     display: flex;
     justify-content: center;
-    margin-top: 100%;
+    margin-top: 80%;
     
     background-image: url(main_img_mobile.png);
     background-repeat: no-repeat;
